@@ -8,6 +8,11 @@
   "dependencies": {
     "@babel/runtime": "^7.12.5",
     "dotenv": "^8.2.0",
-    "typesense": "^0.9.1"
+    "node-fetch": "^2.6.1",
+    "typesense": "^0.9.1",
+    "yauzl": "^2.10.0"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.14"
   }
 }

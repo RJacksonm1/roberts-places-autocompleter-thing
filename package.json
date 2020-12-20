@@ -1,0 +1,13 @@
+{
+  "name": "roberts-places",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "Rob Jackson <rob@rjackson.me>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@babel/runtime": "^7.12.5",
+    "dotenv": "^8.2.0",
+    "typesense": "^0.9.1"
+  }
+}
